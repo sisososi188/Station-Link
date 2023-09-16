@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=Dorji power Sw1 Pin=C5-2
+Removed Pin From Net: NetName=Dorji power Sw1 Pin=C6-2
+Removed Pin From Net: NetName=Dorji config Sw2 Pin=P1-10
+Removed Pin From Net: NetName=Dorji config Sw2 Pin=P2-2
+Removed Pin From Net: NetName=Dorji config Sw2 Pin=P2-7
+Removed Pin From Net: NetName=Ublox USB D- Pin=P2-8
+Removed Pin From Net: NetName=Ublox USB D+ Pin=P2-9
+Removed Pin From Net: NetName=Dorji config Sw2 Pin=P2-10
+Removed Pin From Net: NetName=Dorji power Sw2 Pin=R6-1
+Removed Pin From Net: NetName=Dorji power Sw1 Pin=R9-1
+Removed Pin From Net: NetName=Dorji power Sw1 Pin=U2-20
+Removed Pin From Net: NetName=Dorji power Sw1 Pin=U4-20
+Change Component Footprint: Designator=P1 Old Footprint=HEADER 10 New Footprint=Header 9
+Change Component Footprint: Designator=P2 Old Footprint=HEADER 10 New Footprint=Header 9
+Change Component Comment : Designator=R6 Old Comment=10K New Comment=0R
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=0R
+Change Component Comment : Designator=P1 Old Comment=Header 10 New Comment=Header 9
+Change Component Comment : Designator=P2 Old Comment=Header 10 New Comment=Header 9
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R0805"; UniqueID = "\YTHPLRNA" ("\YTHPLRNA")
+Change component parameters (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BHK_Name"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R0805"; UniqueID = "\YZKEDXAY" ("\YZKEDXAY")
+Change component parameters (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BHK_Name"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Dorji config Sw2 Pin=P2-1
+Added Pin To Net: NetName=Ublox USB D- Pin=P2-7
+Added Pin To Net: NetName=Ublox USB D+ Pin=P2-8
+Added Pin To Net: NetName=Dorji config Sw2 Pin=P2-9
+Added Pin To Net: NetName=Dorji power Sw1 Pin=R6-2
+Added Pin To Net: NetName=Dorji power Sw1 Pin=R10-2
+Added Pin To Net: NetName=Dorji USB VCC Pin=P2-2
+Added Pin To Net: NetName=Dorji USB VCC Pin=R9-1
+Added Net: Name=Dorji USB VCC
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R6-1
+Added Pin To Net: NetName=NetC5_2 Pin=R9-2
+Added Pin To Net: NetName=NetC5_2 Pin=U2-20
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R10-1
+Added Pin To Net: NetName=NetC6_2 Pin=R11-2
+Added Pin To Net: NetName=NetC6_2 Pin=U4-20
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=Ublox USB VCC Pin=P2-6
+Added Pin To Net: NetName=Ublox USB VCC Pin=R11-1
+Added Net: Name=Ublox USB VCC
+Added Member To Class: ClassName=Station-Link-Sch Member=Component R10 0R
+Added Member To Class: ClassName=Station-Link-Sch Member=Component R11 0R

@@ -1,0 +1,426 @@
+Added Component: Designator=C1(C0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "C_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "C_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "C_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "C_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "C_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "C_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=D1(D_SMA_214AC)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Diod"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "1N5819"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "Shotcky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.aliexpress.com/item/Free-shipping-100pcs-1n5822-sma-smd-do-214ac-Schottky-diode-ss34/32337482329.html?spm=2114.01010208.3.1.zLZDsP&ws_ab_test=searchweb0_0,searchweb201602_4_10065_10068_10084_10083_10080_10082_10081_10060_10061_10062_10056_10055_10054_10059_10099_10078_10079_427_10073_10103_10102_10096_10052_10050_10051,searchweb201603_4&btsid=6e50dc92-ac69-45bc-a19e-209af19ce602"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor/Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = "SS34"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Public_PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "LED_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/led/datasheet/150080AS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "605 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "130 mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150080AS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "610 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "November 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140 deg"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Public_PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "LED_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/led/datasheet/150080AS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "605 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "130 mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150080AS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "610 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "November 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140 deg"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED_0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Public_PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "LED_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "InGaN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/led/datasheet/150080GS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "525 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3.2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "450 mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150080GS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "515 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "November 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140 deg"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED_0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Public_PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "LED_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "InGaN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/led/datasheet/150080GS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "525 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3.2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "450 mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150080GS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "515 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "November 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140 deg"; VariantName = "[No Variations]"
+Added Component: Designator=L1(RH127_L_12*12*8)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Self"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "33UH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "Other_Self"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1(Header 10)
+Added Component: Designator=P2(Header 10)
+Added Component: Designator=R1(R0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "3.24K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "1.5K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "1.5K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "1.5K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "1.5K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0805)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "R_805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC8E)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TPS5430DDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps5430ddar/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Group"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "TPS5430DDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "Regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tps5430"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS5430DDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS5430DDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS5430DDAR?qs=zwk82MlA57ZJdOTovH1aYA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U2(FTDI-SSOP-28_M)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/FT232RL-FTDI-datasheet-120501.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.04, 02/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "10.2x5.3x1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FTDI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.ftdichip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Data Rate"; Value = "3MBd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels per Chip"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receive FIFO"; Value = "256B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transmit FIFO"; Value = "128B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "5.3mm"; VariantName = "[No Variations]"
+Added Component: Designator=U3(DRF7020D27)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "DRF7020D27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "RF"; VariantName = "[No Variations]"
+Added Component: Designator=U4(FTDI-SSOP-28_M)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/FT232RL-FTDI-datasheet-120501.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.04, 02/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "10.2x5.3x1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FTDI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.ftdichip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Data Rate"; Value = "3MBd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels per Chip"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receive FIFO"; Value = "256B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transmit FIFO"; Value = "128B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "5.3mm"; VariantName = "[No Variations]"
+Added Component: Designator=U5(UBLOX NEO-M8N - customized)
+Add component (AddParameter): Name = "BHK_Group"; Value = "Module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_Name"; Value = "UBLOX NEO-M8N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_NC"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BHK_SUB_Group"; Value = "GPS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Dorji config Sw1 Pin=P1-9
+Added Pin To Net: NetName=Dorji config Sw1 Pin=U3-8
+Added Net: Name=Dorji config Sw1
+Added Pin To Net: NetName=Dorji config Sw2 Pin=C2-1
+Added Pin To Net: NetName=Dorji config Sw2 Pin=C3-1
+Added Pin To Net: NetName=Dorji config Sw2 Pin=C4-2
+Added Pin To Net: NetName=Dorji config Sw2 Pin=C5-1
+Added Pin To Net: NetName=Dorji config Sw2 Pin=C6-1
+Added Pin To Net: NetName=Dorji config Sw2 Pin=D1-1
+Added Pin To Net: NetName=Dorji config Sw2 Pin=P1-2
+Added Pin To Net: NetName=Dorji config Sw2 Pin=P1-6
+Added Pin To Net: NetName=Dorji config Sw2 Pin=P1-10
+Added Pin To Net: NetName=Dorji config Sw2 Pin=P2-2
+Added Pin To Net: NetName=Dorji config Sw2 Pin=P2-5
+Added Pin To Net: NetName=Dorji config Sw2 Pin=P2-7
+Added Pin To Net: NetName=Dorji config Sw2 Pin=P2-10
+Added Pin To Net: NetName=Dorji config Sw2 Pin=R3-1
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U1-6
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U1-9
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U2-7
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U2-18
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U2-21
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U2-25
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U2-26
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U3-1
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U4-7
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U4-18
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U4-21
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U4-25
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U4-26
+Added Pin To Net: NetName=Dorji config Sw2 Pin=U5-1
+Added Net: Name=Dorji config Sw2
+Added Pin To Net: NetName=Dorji Power LED+ Pin=P2-1
+Added Pin To Net: NetName=Dorji Power LED+ Pin=R6-2
+Added Net: Name=Dorji Power LED+
+Added Pin To Net: NetName=Dorji power Sw1 Pin=C2-2
+Added Pin To Net: NetName=Dorji power Sw1 Pin=C3-2
+Added Pin To Net: NetName=Dorji power Sw1 Pin=C5-2
+Added Pin To Net: NetName=Dorji power Sw1 Pin=C6-2
+Added Pin To Net: NetName=Dorji power Sw1 Pin=L1-2
+Added Pin To Net: NetName=Dorji power Sw1 Pin=P1-7
+Added Pin To Net: NetName=Dorji power Sw1 Pin=R1-2
+Added Pin To Net: NetName=Dorji power Sw1 Pin=R2-2
+Added Pin To Net: NetName=Dorji power Sw1 Pin=R4-1
+Added Pin To Net: NetName=Dorji power Sw1 Pin=R5-1
+Added Pin To Net: NetName=Dorji power Sw1 Pin=R7-1
+Added Pin To Net: NetName=Dorji power Sw1 Pin=R8-1
+Added Pin To Net: NetName=Dorji power Sw1 Pin=R9-1
+Added Pin To Net: NetName=Dorji power Sw1 Pin=U2-20
+Added Pin To Net: NetName=Dorji power Sw1 Pin=U4-20
+Added Pin To Net: NetName=Dorji power Sw1 Pin=U5-6
+Added Net: Name=Dorji power Sw1
+Added Pin To Net: NetName=Dorji power Sw2 Pin=P1-8
+Added Pin To Net: NetName=Dorji power Sw2 Pin=R6-1
+Added Pin To Net: NetName=Dorji power Sw2 Pin=U3-2
+Added Net: Name=Dorji power Sw2
+Added Pin To Net: NetName=Dorji RX LED Pin=D2-1
+Added Pin To Net: NetName=Dorji RX LED Pin=U2-23
+Added Net: Name=Dorji RX LED
+Added Pin To Net: NetName=Dorji RX Pin=U2-5
+Added Pin To Net: NetName=Dorji RX Pin=U3-4
+Added Net: Name=Dorji RX
+Added Pin To Net: NetName=Dorji TX LED Pin=D3-1
+Added Pin To Net: NetName=Dorji TX LED Pin=U2-22
+Added Net: Name=Dorji TX LED
+Added Pin To Net: NetName=Dorji TX Pin=U2-1
+Added Pin To Net: NetName=Dorji TX Pin=U3-5
+Added Net: Name=Dorji TX
+Added Pin To Net: NetName=Dorji USB D+ Pin=P2-4
+Added Pin To Net: NetName=Dorji USB D+ Pin=U2-15
+Added Net: Name=Dorji USB D+
+Added Pin To Net: NetName=Dorji USB D- Pin=P2-3
+Added Pin To Net: NetName=Dorji USB D- Pin=U2-16
+Added Net: Name=Dorji USB D-
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-8
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R4-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R5-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R7-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R8-2
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-4
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=Power LED+ Pin=P1-5
+Added Pin To Net: NetName=Power LED+ Pin=R1-1
+Added Net: Name=Power LED+
+Added Pin To Net: NetName=Ublox Power LED+ Pin=P2-6
+Added Pin To Net: NetName=Ublox Power LED+ Pin=R9-2
+Added Net: Name=Ublox Power LED+
+Added Pin To Net: NetName=Ublox RX LED Pin=D4-1
+Added Pin To Net: NetName=Ublox RX LED Pin=U4-23
+Added Net: Name=Ublox RX LED
+Added Pin To Net: NetName=Ublox RX Pin=U4-5
+Added Pin To Net: NetName=Ublox RX Pin=U5-3
+Added Net: Name=Ublox RX
+Added Pin To Net: NetName=Ublox TX LED Pin=D5-1
+Added Pin To Net: NetName=Ublox TX LED Pin=U4-22
+Added Net: Name=Ublox TX LED
+Added Pin To Net: NetName=Ublox TX Pin=U4-1
+Added Pin To Net: NetName=Ublox TX Pin=U5-2
+Added Net: Name=Ublox TX
+Added Pin To Net: NetName=Ublox USB D+ Pin=P2-9
+Added Pin To Net: NetName=Ublox USB D+ Pin=U4-15
+Added Net: Name=Ublox USB D+
+Added Pin To Net: NetName=Ublox USB D- Pin=P2-8
+Added Pin To Net: NetName=Ublox USB D- Pin=U4-16
+Added Net: Name=Ublox USB D-
+Added Pin To Net: NetName=V input Sw2 Pin=C4-1
+Added Pin To Net: NetName=V input Sw2 Pin=P1-4
+Added Pin To Net: NetName=V input Sw2 Pin=U1-7
+Added Net: Name=V input Sw2
+Added Pin To Net: NetName=V Input Pin=P1-1
+Added Pin To Net: NetName=V Input Pin=P1-3
+Added Net: Name=V Input
+Added Class: Name=Station-Link-Sch
