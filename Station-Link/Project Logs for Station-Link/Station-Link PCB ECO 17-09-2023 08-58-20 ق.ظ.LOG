@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Dorji config Sw2 Pin=P1-2
+Removed Pin From Net: NetName=V Input Pin=P1-3
+Removed Pin From Net: NetName=V input Sw2 Pin=P1-4
+Removed Pin From Net: NetName=Power LED+ Pin=P1-5
+Removed Pin From Net: NetName=Dorji config Sw2 Pin=P2-5
+Added Pin To Net: NetName=V Input Pin=P1-2
+Added Pin To Net: NetName=V input Sw2 Pin=P1-3
+Added Pin To Net: NetName=Dorji config Sw2 Pin=P1-5
+Added Pin To Net: NetName=Power LED+ Pin=P2-5

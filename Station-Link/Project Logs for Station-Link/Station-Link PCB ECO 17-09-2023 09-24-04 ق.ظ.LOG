@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=V Input Pin=P1-3
+Removed Pin From Net: NetName=V input Sw2 Pin=P1-4
+Added Pin To Net: NetName=V input Sw2 Pin=P1-3
+Added Pin To Net: NetName=V Input Pin=P1-4

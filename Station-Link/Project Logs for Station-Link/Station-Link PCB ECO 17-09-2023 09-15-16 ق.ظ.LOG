@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Dorji config Sw2 Pin=P2-1
+Removed Pin From Net: NetName=Dorji USB VCC Pin=P2-2
+Removed Pin From Net: NetName=Dorji USB D- Pin=P2-3
+Removed Pin From Net: NetName=Dorji USB D+ Pin=P2-4
+Added Pin To Net: NetName=Dorji USB VCC Pin=P2-1
+Added Pin To Net: NetName=Dorji USB D- Pin=P2-2
+Added Pin To Net: NetName=Dorji USB D+ Pin=P2-3

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=Dorji config Sw2 Pin=P1-5
+Added Pin To Net: NetName=Dorji config Sw2 Pin=P2-4
