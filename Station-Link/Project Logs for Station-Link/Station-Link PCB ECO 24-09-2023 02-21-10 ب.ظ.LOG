@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VCC Pin=P1-1
+Removed Pin From Net: NetName=Dorji USB GND Pin=P1-2
+Removed Pin From Net: NetName=Dorji power Sw1 Pin=P1-6
+Removed Pin From Net: NetName=Dorji power Sw2 Pin=P1-7
+Removed Pin From Net: NetName=Dorji USB GND Pin=P2-4
+Removed Pin From Net: NetName=Power LED+ Pin=P2-5
+Removed Pin From Net: NetName=Ublox USB VCC Pin=P2-6
+Removed Pin From Net: NetName=Ublox USB D+ Pin=P2-7
+Removed Pin From Net: NetName=Ublox USB D- Pin=P2-8
+Removed Pin From Net: NetName=Dorji USB GND Pin=P2-9
+Added Pin To Net: NetName=VCC Pin=P1-3
+Added Pin To Net: NetName=Dorji USB GND Pin=P1-4
+Added Pin To Net: NetName=Power LED+ Pin=P1-6
+Added Pin To Net: NetName=Dorji power Sw1 Pin=P1-7
+Added Pin To Net: NetName=Dorji power Sw2 Pin=P1-8
+Added Pin To Net: NetName=Ublox USB VCC Pin=P2-5
+Added Pin To Net: NetName=Ublox USB D+ Pin=P2-6
+Added Pin To Net: NetName=Ublox USB D- Pin=P2-7
+Change Net Name : Old Net Name=Dorji USB GND New Net Name=Power LED-
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP2_4 Pin=P2-8
+Added Net: Name=NetP2_4
+Added Member To Class: ClassName=Station-Link-Sch Member=Component C10 0.1uF
